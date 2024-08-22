@@ -9,23 +9,9 @@ const resultText = document.getElementById("result-text");
 
 //Options values for buttons
 let options = {
-  fruits: [
-    "Apple",
-    "Blueberry",
-    "Mandarin",
-    "Pineapple",
-    "Pomegranate",
-    "Watermelon",
-  ],
-  animals: ["Hedgehog", "Rhinoceros", "Squirrel", "Panther", "Walrus", "Zebra"],
-  countries: [
-    "India",
-    "Hungary",
-    "Kyrgyzstan",
-    "Switzerland",
-    "Zimbabwe",
-    "Dominica",
-  ],
+  fruits: ["Apple","Blueberry","Mandarin","Pineapple","Pomegranate","Watermelon","Mango","Guava","Lemon","Melon","Cherry","Avocado","Lime"],
+  animals: ["Hedgehog", "Rhinoceros", "Squirrel", "Panther", "Walrus", "Zebra","Wolf","Turtle","Giraffe","Tiger","Crocodile","Aligator","Peacock","Eagle","Viper"],
+  countries: ["India","Hungary","Kyrgyzstan","Switzerland","Zimbabwe","Dominica","Philippines","Canada","Japan","Nigeria","Italy","Germany","Singapore"],
 };
 
 //count
